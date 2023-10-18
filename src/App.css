@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.searchBg{
+    background-image: url('../images//img1.jpg');
+}
+
